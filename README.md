@@ -2,7 +2,7 @@
 
 >      Prueba tecnica NodeJs MVM 
 
-![imagen de refactoring.guru](https://0701.static.prezi.com/preview/v2/vrlxt2cl3l4emxnx35wxkbquo36jc3sachvcdoaizecfr3dnitcq_3_0.png "Express")
+![imagen de refactoring.guru](https://0701.static.prezi.com/preview/v2/vrlxt2cl3l4emxnx35wxkbquo36jc3sachvcdoaizecfr3dnitcq_3_0.png "MVM")
 
 ## Description
 
