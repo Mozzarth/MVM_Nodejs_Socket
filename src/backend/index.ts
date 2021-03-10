@@ -7,7 +7,7 @@ const server = Server.getInstance()
 
 
 server.start()
-const test = new FileSystemChangeDetected(path.join(__dirname, '../public/prueba.txt'))
+const test = new FileSystemChangeDetected(path.join(__dirname, '../public/valores.txt'))
 test.listenChanges.bind(test)()
     .then(a => console.log("listen file"))
     .catch(ex => console.log("Error",ex))
