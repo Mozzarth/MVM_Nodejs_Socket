@@ -1,0 +1,5 @@
+nombre, valor1, valor2, valor3
+prueba1,1,5,9
+prueba2,2,6,10
+prueba3,3,7,11
+prueba4,4,8,12
